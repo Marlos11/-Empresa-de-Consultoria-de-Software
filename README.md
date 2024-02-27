@@ -1,27 +1,29 @@
-# LandingPage
+# Landing Page - Empresa de Consultoria de Software
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.0.
+Este projeto consiste em uma landing page para uma empresa de consultoria de software, desenvolvida utilizando Angular 17 e TypeScript. A estilização foi feita com SCSS. Nesta aplicação, o cliente pode enviar um formulário para entrar em contato com um dos especialistas da empresa. O formulário foi criado utilizando o FormModule do Angular para tornar a aplicação mais performática.
 
-## Development server
+Espero que gostem do resultado! Caso tenham alguma melhoria ou sugestão, não deixem de comentar.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Tecnologias Utilizadas
 
-## Code scaffolding
+- Angular 17
+- TypeScript
+- SCSS
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Como Contribuir
 
-## Build
+Sinta-se à vontade para contribuir com este projeto! Você pode fazer isso de várias maneiras:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Implementando novos recursos
+- Corrigindo bugs
+- Melhorando a estrutura do código
+- Adicionando documentação
 
-## Running unit tests
+## Como Executar o Projeto
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Clone este repositório em sua máquina local.
+2. Certifique-se de ter o Angular CLI instalado globalmente: `npm install -g @angular/cli`.
+3. Na pasta do projeto, instale as dependências: `npm install`.
+4. Execute o projeto: `ng serve`.
+5. Abra o navegador e acesse `http://localhost:4200` para visualizar a landing page.
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
