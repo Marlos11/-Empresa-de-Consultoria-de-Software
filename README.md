@@ -27,3 +27,5 @@ Sinta-se à vontade para contribuir com este projeto! Você pode fazer isso de v
 4. Execute o projeto: `ng serve`.
 5. Abra o navegador e acesse `http://localhost:4200` para visualizar a landing page.
 
+6. ![](https://avatars.githubusercontent.com/u/115483890?s=400&u=bddcc19d5a3130781105da3b24d932500c9bbcf9&v=4")
+
